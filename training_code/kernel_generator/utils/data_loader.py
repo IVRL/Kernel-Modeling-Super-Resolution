@@ -17,8 +17,6 @@ class FolderDataset(data.Dataset):
         base = dataset
         
         self.mat_files = sorted(glob.glob(base + '*.mat'))
-        print(dataset)
-        print(len(self.mat_files))
         
     def __getitem__(self, index):
         mat = loadmat(self.mat_files[index])
