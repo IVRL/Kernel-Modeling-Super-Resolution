@@ -12,6 +12,3 @@ Ruofan Zhou, Sabine Süsstrunk
 - [Ruofan Zhou](https://ivrl.epfl.ch/people/Zhou)
 - [Sabine Süsstrunk](https://ivrl.epfl.ch/people/susstrunk)
 
-## License
-- For academic and non-commercial use only.
-
