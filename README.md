@@ -28,5 +28,11 @@ run `training_code/kernel_generator/generate.py`.
 run `training_code/super-resolution/main.py`.
 
 ## Citations
-
-
+```
+@inproceedings{zhou2019kernel,
+  title={Kernel Modeling Super-Resolution on Real Low-Resolution Images},
+  author={Zhou, Ruofan and S{\"u}sstrunk, Sabine},
+  booktitle={2019 International Conference on Computer Vision},
+  year={2019}
+}
+```
